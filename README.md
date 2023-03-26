@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maddantas&label=Profile%20views&color=0e75b6&style=flat" alt="maddantas" /> </p>
 
-- 🌱 I’m currently learning **VR for Unreal**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Robotics**
+- 💬 Ask me about **Robotics** or **VR for Unreal**
 
 - 📫 How to reach me **matheussdantas19@gmail.com**
 
