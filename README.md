@@ -17,7 +17,8 @@
 </p>
 
 <h2>Try one of my games</h2>
-[![image](https://github.com/MADdantas/MADdantas/assets/24358380/f8c334da-2467-434b-9e46-a9ddd2b95eb3)](https://maddantas.itch.io/bouncing-slime)
+
+[![image](https://github.com/MADdantas/MADdantas/assets/24358380/849eec8f-e423-4216-983a-3c62cad7fbc5)](https://maddantas.itch.io/bouncing-slime)
 
 
 <h3 align="left">Languages and Tools:</h3>
